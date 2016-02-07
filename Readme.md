@@ -1,5 +1,5 @@
 <h1>ContactForm</h1>
-<h2>A responsive and dynamic contact form developed with PHP, Bootstarp and PHPmailer.</h2>
+<h2>A responsive and dynamic contact form developed with PHP, Bootstrap and PHPmailer.</h2>
 <h3>Setup:</h3>
 <ol>
 	<li>Enter project root inside the includes/header.php file.</li><br>
